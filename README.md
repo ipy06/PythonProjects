@@ -11,7 +11,7 @@ Python 3.12.3
 ```
 If you do not have Python installed, refer to [Installing Python](#Installing-Python)
 
-Then for Linux and Mac users type in `python3 <file_name>` to run the desired program. Look at the example below, the command is to run the <a href="link">TicTacToe.py</a> code.
+Then for Linux and Mac users type in `python3 <file_name>` to run the desired program. Look at the example below, the command is to run the <a href="https://github.com/ipy06/PythonProjects/blob/main/TicTacToe.py">TicTacToe.py</a> code.
 ```md
 ipy06@ipy06:~$ python3 TicTacToe.py
 ```
