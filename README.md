@@ -29,4 +29,5 @@ Visit the python site to [download](https://www.python.org/downloads/)
 ```
 sudo apt install python3
 ```
+After installation, you can proceed to [Run the code](#Running-the-code)
 
