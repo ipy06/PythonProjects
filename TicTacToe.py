@@ -268,14 +268,34 @@ def start():
         os.system("cls")                      # use "cls" or "clear" to clear the screen
     else:
         os.system("clear")
-
     print("""
 ======================================
 +                                    +
 + Welcome to my game of Tic Tac Toe! +
 +                                    +
-======================================         
-            """)
+======================================
+
+You'll play against me! To make a move select a square using the index assigned.
+
++-------+-------+-------+
+|       |       |       |
+|   1   |   2   |   3   |
+|       |       |       |
++-------+-------+-------+
+|       |       |       |
+|   4   |   5   |   6   |
+|       |       |       |
++-------+-------+-------+
+|       |       |       |
+|   7   |   8   |   9   |
+|       |       |       |
++-------+-------+-------+
+
+That's the layout of the board, 
+select your moves by entering an index from (1-9) Enjoy!
+
+        """) 
+    first_call = False
     board = create_empty_board()                        
     print("\nI have made the first move.\n")
     display_board(board)
