@@ -31,3 +31,7 @@ sudo apt install python3
 ```
 After installation, you can proceed to [Run the code](#Running-the-code)
 
+## Description of Projects
+| Project Name | Description |
+| ------------ | ----------- |
+| [TicTacToe.py](https://github.com/ipy06/PythonProjects/blob/main/TicTacToe.py) |  An interactive implementation of the classic Tic Tac Toe game, featuring a user-friendly interface, AI opponent, and the ability to play multiple games in a row. The code is well-organized, easy to understand, and includes helpful comments for quick customization. |
